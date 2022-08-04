@@ -1,7 +1,7 @@
 # CF Workers Discord Bot
 A template for running Discord bots on Cloudflare Workers.
 
-Created for a Tech Spotlight on The Cdoe Lab! https://discord.gg/VN2FR9euer
+Created for a Tech Spotlight on The Code Lab! https://discord.gg/VN2FR9euer
 
 ## Getting Started
 Make sure to create the Worker on Cloudflare's dashboard first. You should select "HTTP router" as the type.
