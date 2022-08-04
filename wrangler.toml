@@ -6,3 +6,4 @@ usage_model = ''
 compatibility_flags = []
 workers_dev = true
 compatibility_date = "2022-08-03"
+webpack_config = "webpack.config.js"
