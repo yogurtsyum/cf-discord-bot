@@ -15,6 +15,8 @@ wrangler secret put DISCORD_PUBLIC_KEY
 wrangler publish
 ```
 
+Don't forget to update the HTTP Interactions URL on the Discord developer portal to the URL of your Worker.
+
 ## Syncing Commands
 Put the discord bot token in the `.env` file:
 ```
